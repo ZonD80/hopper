@@ -13,9 +13,10 @@ iOS and Android VPN clients plus a Linux server stack for a **multi-hop SSH over
 | **iOS (TestFlight)** | [Join the beta](https://testflight.apple.com/join/QCeqF71s) — install [TestFlight](https://apps.apple.com/app/testflight/id899247664) first, then open the link on your iPhone or iPad |
 | **iOS / Android (developer-signed)** | Available in [GitHub Releases](https://github.com/ZonD80/hopper/releases) — install the IPA or APK from the latest release |
 | **Apple App Store** | [Download on the App Store](https://apps.apple.com/us/app/%C9%B9%C7%9Dddoh/id6778506930) |
+| **iOS (appdb)** | <a href="https://appdb.to/details/aa708e634598470eeec6ebd64cdd5fda9a6f5dc1"><img title="Get from appdb" src="https://s3cdn.dbservices.to/official_buttons/get_white.png" width="100" alt="Get from appdb" /></a> |
 | **Google Play** | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.aengix.hopper) |
 
-For iOS, use the [App Store](https://apps.apple.com/us/app/%C9%B9%C7%9Dddoh/id6778506930) or the TestFlight beta above. For Android, use Google Play. Alternatively, use the signed builds from Releases (you may need to trust the developer certificate on iOS or allow installs from unknown sources on Android).
+For iOS, use the [App Store](https://apps.apple.com/us/app/%C9%B9%C7%9Dddoh/id6778506930), [appdb](https://appdb.to/details/aa708e634598470eeec6ebd64cdd5fda9a6f5dc1), or the TestFlight beta above. For Android, use Google Play. Alternatively, use the signed builds from Releases (you may need to trust the developer certificate on iOS or allow installs from unknown sources on Android).
 
 ## Setting up a server
 

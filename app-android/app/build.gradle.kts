@@ -22,7 +22,7 @@ android {
         applicationId = "com.aengix.hopper"
         minSdk = 26
         targetSdk = 36
-        versionCode = 36
+        versionCode = 38
         versionName = "2.6.0"
     }
 
